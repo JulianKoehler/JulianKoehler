@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Kanban](https://github.com/JulianKoehler/Kanban-Board/tree/main)
 
-- 🌱 I’m currently learning **Design Patterns**
+- 🌱 I’m currently learning **Advanced Design Patterns**
 
 - 👨‍💻 All of my projects are available at [julianköhler.de](julianköhler.de)
 
