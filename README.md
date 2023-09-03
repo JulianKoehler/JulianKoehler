@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">A passionate frontend athlete from Germany</h3>
-<img align="right" alt="Coding" width="400" style="border-radius:40px" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif">
+<img align="right" alt="Coding" width="400" style="border-radius:40px;" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliankoehler&label=Profile%20views&color=0e75b6&style=flat" alt="juliankoehler" /> </p>
 
