@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Kanban](https://github.com/JulianKoehler/Kanban-Board/tree/main)
 
-- 🌱 I’m currently learning **Remix** & **Webpack**
+- 🌱 I’m currently learning **Python**
   
 - 👨‍💻 All of my projects are available at [julianköhler.de](julianköhler.de)
 
