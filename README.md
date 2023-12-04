@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
   
-- 👨‍💻 All of my projects are available at [julian-köhler.vercel.app]([https://www.julianköhler.de](https://julian-koehler.vercel.app/))
+- 👨‍💻 All of my projects are available at [julian-köhler.vercel.app](https://julian-koehler.vercel.app/)
 
 - 💬 Ask me about **React**
 
