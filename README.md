@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Kanban](https://github.com/JulianKoehler/Kanban-Board/tree/main)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **GoF Design Patterns**
   
 - 👨‍💻 All of my projects are available at [julian-koehler.vercel.app](https://julian-koehler.vercel.app/)
 
